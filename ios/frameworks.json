@@ -1,0 +1,10 @@
+{
+    "MediaPlayer.framework": 2,
+    "ExternalAccessory.framework": 2,
+    "SystemConfiguration.framework": 2,
+    "ImageIO.framework": 2,
+    "CoreLocation.framework": 2,
+    "AVFoundation.framework": 2,
+    "libz.dylib": 2,
+    "libxml2.2.tbd": 2
+}
